@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Project-.56298b6a\x64\Debug\) contains files shared from another project (Project-Function-Calls-No-Parameter.vcxproj, Project-Function-Declarations-No-Parameter.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+  Project-External-Declarations.vcxproj -> C:\Users\okmy7\Documents\GitHub\Computer-Programming-and-Practice-2025-1\x64\Debug\Project-External-Declarations.exe
