@@ -59,7 +59,8 @@ unsigned char uint_to_uchar (unsigned int x);
 
 int main() {
 	/* To Do: 주어진 함수들을 활용해서 16진수 숫자를 입력받고, 화면에 출력해보세요 */
-
+	unsigned int a = input_uint();
+	print_uchar(uint_to_uchar(a));
 	
 	return 0;
 }
