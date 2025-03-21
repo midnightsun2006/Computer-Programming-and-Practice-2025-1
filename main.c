@@ -53,6 +53,10 @@ char input_char();
 int main() {
 	/* To Do: 주어진 함수들을 활용해서 문자 하나를 입력받고, 문자 형식과 숫자 형식으로 출력해보세요 */
 
+	char a = input_char(), b = input_char();
+	add_to_format(a);
+	add_to_format(b);
+	print_formatted(a,b);
 	
 	return 0;
 }
